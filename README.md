@@ -268,7 +268,7 @@ you desire. However, this comes at a cost: the mapping software that
 `absmaps` is built on can be a bit fiddly to install.
 
 If you would like to do these things, please feel free to install
-`absmapsdata`.
+`absmaps`.
 
 ## I want to complain about this package
 
